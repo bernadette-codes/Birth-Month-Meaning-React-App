@@ -2,7 +2,7 @@
 
 [Birth Month Meaning App](https://bernadetteestacio.site/projects/birth-month-meaning/) shows the meaning of your birth month.
 
-![Birth Month Meaning Webpage](https://bernadetteestacio.site/assets/img/portfolio/birth-month-meaning.png)
+![Birth Month Meaning Webpage](https://raw.githubusercontent.com/bernadette-codes/Bernadettecodes/master/public/assets/img/portfolio/birth-month-meaning.png)
 
 - It is a single-page, responsive application programmed using React
 
