@@ -1,6 +1,6 @@
 ## **Birth Month Meaning App**
 
-[Birth Month Meaning App](https://bernadetteestacio.site/projects/birth-month-meaning/) shows the meaning of your birth month.
+[Birth Month Meaning App](https://github.com/bernadette-codes/Birth-Month-Personality-App) shows the meaning of your birth month.
 
 ![Birth Month Meaning Webpage](https://raw.githubusercontent.com/bernadette-codes/Bernadettecodes/master/public/assets/img/portfolio/birth-month-meaning.png)
 
